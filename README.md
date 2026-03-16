@@ -2,7 +2,7 @@
 This project analyzes job market trends across the United States and Europe using real-world job listings data. The dataset includes information such as job titles, locations, salaries, contract types, and job categories.Due to inconsistencies in the raw data (such as variations in job titles, locations, and formatting), the dataset was cleaned and standardized before analysis.
 The project uses Python to perform Exploratory Data Analysis (EDA) to uncover patterns and insights related to salary trends, contract types, and high-demand job sectors across different regions.
 
-### Objectives:
+## Objectives:
 
 - Clean and preprocess raw job listings data
 
@@ -15,78 +15,78 @@ The project uses Python to perform Exploratory Data Analysis (EDA) to uncover pa
 - Generate insights about job market trends in the US and Europe
 
 
-Tools & Technologies:
+## Tools & Technologies:
 
-Python
+- Python
 
-Pandas
+- Pandas
 
-NumPy
+- NumPy
 
-Matplotlib
+- Matplotlib
 
-Seaborn
+- Seaborn
 
-Plotly
+- Plotly
 
-Jupyter Notebook
+- Jupyter Notebook
 
 
-Key Analysis
+## Key Analysis
 
 The analysis focuses on:
 
-Job distribution across different countries
+- Job distribution across different countries
 
-Salary trends across job categories
+- Salary trends across job categories
 
-Contract types (Full-time, Part-time, Contract)
+- Contract types (Full-time, Part-time, Contract)
 
-Regional job concentration
+- Regional job concentration
 
-High-demand job sectors
-
-
-Project Workflow:
-
-Data Collection
-
-Data Cleaning and Preprocessing
-
-Data Standardization
-
-Exploratory Data Analysis (EDA)
-
-Data Visualization
-
-Insights and Observations:
+- High-demand job sectors
 
 
-Key Insights:
+## Project Workflow:
 
-Full-time roles dominate the majority of job listings.
+- Data Collection
 
-Certain sectors such as healthcare, customer services, and travel show high demand in multiple regions.
+- Data Cleaning and Preprocessing
 
-Salary levels vary significantly depending on job category and contract type.
+- Data Standardization
 
-Contract Roles Dominate Job Listings while Permanent Roles Offer the Highest Salaries. 
+- Exploratory Data Analysis (EDA)
 
-Job Listings are more concentrated Significantly in 2025.
+- Data Visualization
 
-
-Who Can Benefit:
-
-Job Seekers
-
-Recruitment Agencies
-
-HR Professionals
-
-Data Analysts studying labor market trends
+- Insights and Observations:
 
 
-Data Source:
+## Key Insights:
+
+- Full-time roles dominate the majority of job listings.
+
+- Certain sectors such as healthcare, customer services, and travel show high demand in multiple regions.
+
+- Salary levels vary significantly depending on job category and contract type.
+
+- Contract Roles Dominate Job Listings while Permanent Roles Offer the Highest Salaries. 
+
+- Job Listings are more concentrated Significantly in 2025.
+
+
+## Who Can Benefit:
+
+- Job Seekers
+
+- Recruitment Agencies
+
+- HR Professionals
+
+- Data Analysts studying labor market trends
+
+
+## Data Source:
 
 The dataset used in this project was obtained from:
 
